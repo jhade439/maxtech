@@ -1,0 +1,25 @@
+.firm{
+    background-image: url(../img/tech.jpg);
+    background-size: cover;
+}
+.firms{
+    background-image: url(../img/tech1.gif);
+    background-size: cover;
+}
+.ban{
+    padding: 5%;
+    color: white;
+    text-align: right;
+    height: 90vh;
+
+}
+.ban h2{
+    font-size: 15vh;
+    margin-top: 10vh;
+}
+.ban p{
+    font-size: 5vh;
+    font-style: italic;
+    margin-bottom: 5vh;
+}
+
